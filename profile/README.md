@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-My active development has migrated to Codeberg to support community-driven, non-profit open source infrastructure.
+My active development has migrated to [Codeberg](https://codeberg.org/maveonair) to support community-driven, non-profit open source infrastructure.
